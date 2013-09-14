@@ -9,6 +9,8 @@ namespace ConsoleApplication3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello my git");
+            Console.ReadKey();
         }
     }
 }
